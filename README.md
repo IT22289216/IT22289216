@@ -4,6 +4,7 @@
 
 Write a C program to input marks of two subjects. Calculate and print the average of the two marks.
 
+Program File - [Tute01.c](Tute01.c)
  
 ## Exercise 2 - Selection
 
@@ -24,6 +25,7 @@ Amount = 20 x 50 = 1000
 Distance -> 50
 Amount = 30 x 50 + (50-30) x 40 = 2300 
 ```
+Program File - [Tute02.c](Tute02.c)
 
 ## Exercise 3 - Repetition
 
@@ -38,7 +40,8 @@ sum = 1+2+3+....+ 99+100 = 5050
 n -> 1-
 sum = 1+2+3+...+10 = 55
 ```
- 
+Program File - [Tute03.c](Tute03.c)
+
 ## Exercise 4 - Functions
 
 Implement the three functions ```minimum()```, ```maximum()``` and ```multiply()``` below the ```main()``` function.
@@ -56,4 +59,6 @@ int main() {
    printf("%d ", maximum(no1, no2));
    printf("%d ", multiply(no1, no2));
    return 0;
-}```
+}
+```
+Program File - [Tute04.c](Tute04.c)
