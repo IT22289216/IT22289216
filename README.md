@@ -1,4 +1,10 @@
-# IT1050-Tutorial-01
+![logo](/resources/tutelogo.png)
+
+## <div align="center">Tutorial 01</div>
+
+## Objectives : Revise writing C Programs
+
+This week we will revisit writing C programs.  In IT1050 the programming language you will use C++ is based on the C language and you have to use your C knowledge to write C++ programs
 
 ## Exercise 1 - Calculations
 
